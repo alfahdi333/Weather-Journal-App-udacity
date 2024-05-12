@@ -1,0 +1,17 @@
+## Description:
+This project is part of the Udacity Front End Web Developer Nanodegree program. The Weather Journal App is a simple web application that allows users to input a ZIP code and their feelings or mood for the day, then displays the current weather information along with their input. It utilizes OpenWeatherMap API to fetch weather data based on the provided ZIP code.
+
+
+## Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- OpenWeatherMap API
+
+## How to Run:
+- Run npm install to install project dependencies.
+- Sign up for an API key at OpenWeatherMap and replace 'YOUR_API_KEY' in the server.js file with your API key.
+- Run node server.js to start the server.
+- Open your web browser to view the app.
